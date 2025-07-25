@@ -11,6 +11,7 @@ This project is a cocktail recommendation system that uses vector embeddings to 
 ├── conected_psql.py  # Database connection and setup script
 ├── data_prosecced.py # Script to process and store cocktail data
 ├── test.py           # Script to test cocktail recommendations
+├── requirements.txt  # Dependencies for the project
 ├── README.md         # Project documentation
 └── data/
     └── final_cocktails.csv # Cocktail dataset
